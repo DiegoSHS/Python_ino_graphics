@@ -1,8 +1,6 @@
 #include <Ticker.h>
-#include <SharpIR.h>
 #include <ArduinoJson.hpp>
 #include <ArduinoJson.h>
-#include <LiquidCrystal.h>
 #include <SoftwareSerial.h>
 #define Rele 7
 SoftwareSerial BT(9, 10, 11);
